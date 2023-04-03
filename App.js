@@ -86,6 +86,7 @@ const App = () => {
     // fName = name;
     // setFirstName(name);
     // alert(fName);
+    // Upper lines are step by step
     setNames({fName: name, lName: getNames.lName});
   };
 
